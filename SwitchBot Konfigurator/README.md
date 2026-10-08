@@ -24,4 +24,4 @@ Beschreibung des Moduls.
 
 Hier können die einzelnen Geräte angelegt oder gelöscht werden.
 
-![Konfigurator](../libs/Konfigurator.PNG)
+![Konfigurator](../.github/readme/Konfigurator.PNG)

@@ -65,7 +65,7 @@ The necessary token key and security key must be generated in the app.
 - Tap Developer Options
 - Tap Get Token
 
-![Keys](libs/SwitchBot1.jpg)
+![Keys](.github/readme/SwitchBot1.jpg)
 ### 6. Instance Documentation
 The following modules include the Switchbot Repository:
 

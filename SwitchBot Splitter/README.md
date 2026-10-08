@@ -27,7 +27,7 @@ Beschreibung des Moduls.
 
 Im Splitter müssen ein Token Key und ein Security Key eingegeben werden. Diese beiden Keys findet Ihr in der SwitchBot App. 
 
-![Splitter](../libs/SwitchBot2.png)
+![Splitter](../.github/readme/SwitchBot2.png)
 
 ### 5. Statusvariablen und Profile
 

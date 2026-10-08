@@ -51,7 +51,7 @@
 * Es wird automatisch eine Splitter Instanz hinzugefügt.
 * Im Splitter müssen  ein Token Key und ein Security Key eingegeben werden. Diese beiden Keys findet Ihr in der SwitchBot App. 
 
-![Splitter](libs/SwitchBot2.png)
+![Splitter](.github/readme/SwitchBot2.png)
 
 * Weitere Infos im nächsten Kapitel
 * Weitere Informationen zum Hinzufügen von Instanzen in der [Dokumentation der Instanzen](https://www.symcon.de/service/dokumentation/konzepte/instanzen/#Instanz_hinzufügen)
@@ -67,7 +67,7 @@ Die nötigen Token- und Security Keys müssen in der App generiert werden.
 * Gehe zum Menu Entwickler Optionen
 * Generiere einen neuen Key
 
-![Keys](libs/SwitchBot1.jpg)
+![Keys](.github/readme/SwitchBot1.jpg)
 
 
 ### 6. Instanz Dokumentation
